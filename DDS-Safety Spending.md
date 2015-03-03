@@ -4,8 +4,8 @@ _**Authors:** Cristina Furlong and Jay Wasserman_
 
 [_Bronx girl struck_](http://www.streetsblog.org/2014/10/27/its-still-legal-to-run-over-a-child-on-a-new-york-city-sidewalk/)
 
-[_Queens Driver injures 5 on sidewalk_](http://www.dnainfo.com/new-york/20130912/maspeth/car-plows-into-four-people-near-queens-school-fdny-says)
-[_1,800 kids are hit by cars each year in NYC_](http://project.wnyc.org/children-and-cars)
+[_Queens Driver injures 5 on sidewalk_](http://www.dnainfo.com/new-york/20130912/maspeth/car-plows-into-four-people-near-queens-school-fdny-says_)
+[_1,800 kids are hit by cars each year in NYC_](http://project.wnyc.org/children-and-cars_)
 [_Brooklyn Boy struck on way home from school_](http://7online.com/news/78-year-old-woman-arrested-in-brooklyn-hit-and-run-that-killed-teen/404691/)
 ####Despite crunched budgets and extreme disparities on spending at schools, the Department of Education has yet to truly revise its spending to reflect what is really injuring and killing school kids in NYC
  [Safe Routes to Schools spending optional](http://usa.streetsblog.org/2012/07/12/the-awful-truth-about-the-transpo-bills-bikeped-loophole)
