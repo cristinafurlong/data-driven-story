@@ -7,7 +7,7 @@ _**Authors:** Cristina Furlong and Jay Wasserman_
 [_Queens Driver injures 5 on sidewalk_](http://www.dnainfo.com/new-york/20130912/maspeth/car-plows-into-four-people-near-queens-school-fdny-says)
 
 [_Brooklyn Boy struck on way home from school_](http://7online.com/news/78-year-old-woman-arrested-in-brooklyn-hit-and-run-that-killed-teen/404691/)
-####Despite crunched budgets and extreme disparities on spending at schools, the Department of Education has yet to truly revise its spending to reflect what is really injuring and killing school kids in NYC> : 
+####Despite crunched budgets and extreme disparities on spending at schools, the Department of Education has yet to truly revise its spending to reflect what is really injuring and killing school kids in NYC
 
  [_Perspective of the New York Civil Liberties Union_](http://www.nyc.gov/html/doh/downloads/pdf/ip/ip-nyc-inj-child-fatality-report13.pdf)
 
