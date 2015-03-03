@@ -8,6 +8,7 @@ _**Authors:** Cristina Furlong and Jay Wasserman_
 
 [_Brooklyn Boy struck on way home from school_](http://7online.com/news/78-year-old-woman-arrested-in-brooklyn-hit-and-run-that-killed-teen/404691/)
 ####Despite crunched budgets and extreme disparities on spending at schools, the Department of Education has yet to truly revise its spending to reflect what is really injuring and killing school kids in NYC
+ [Safe Routes to Schools spending optional](http://usa.streetsblog.org/2012/07/12/the-awful-truth-about-the-transpo-bills-bikeped-loophole)
 
  [_Perspective of the New York Civil Liberties Union_](http://www.nyc.gov/html/doh/downloads/pdf/ip/ip-nyc-inj-child-fatality-report13.pdf)
 
