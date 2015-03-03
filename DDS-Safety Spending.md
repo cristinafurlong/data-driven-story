@@ -17,10 +17,18 @@ _**Authors:** Cristina Furlong and Jay Wasserman_
 [_Atlantic article on guns surpassing cars as killers, doesn't reflect NYC_](http://www.theatlantic.com/technology/archive/2015/01/americas-top-killing-machine/384440/)
 
 ####[Violent crime rates in NYC Schools)(http://www.p12.nysed.gov/irs/school_safety/school_safety_data_reporting.html)
-####Key Questions & Contacts
+####Key Questions
 What are the budgets for crossing guards vs. school safety agents?
+
 How many of each protect our schools? 
+
 Do Federal funds support these programs?
+####Key Contacts
+Local 372 School Employees Union. Ms. Torres. 212-815-1942
+
+New York Civil Liberties Union. Johanna Miller. jmiller@nyclu.org
+
+Columbia University Center for Injury Epidemiology and Prevention. Charles DiMaggio. cjd11@columbia.edu
 
 
 
