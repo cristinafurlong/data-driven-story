@@ -1,6 +1,6 @@
 ####Disparities in the School Safety Spending at the Department of Education
 _**Authors:** Cristina Furlong and Jay Wasserman_
-####In the last few years, some very high profile incidents of traffic violence injuring or killing school children, the Department of Education still spends far more dollars and resources on Terror and violent crime and prevention over traffic safety lessons and staffing and street resources. (by this I mean developing pick up and drop off protocols, encouraging walking and biking to school)
+####In the last few years, some very high profile incidents of traffic violence injuring or killing school children, the Department of Education still spends far more dollars and resources on terror and violent crime and prevention over traffic safety lessons and staffing and street resources. (by this I mean developing pick up and drop off protocols, encouraging walking and biking to school)
 
 [_Bronx girl struck_](http://www.streetsblog.org/2014/10/27/its-still-legal-to-run-over-a-child-on-a-new-york-city-sidewalk/)
 
