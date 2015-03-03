@@ -13,5 +13,6 @@ _**Authors:** Cristina Furlong and Jay Wasserman_
  [_Perspective of the New York Civil Liberties Union_](http://www.nyc.gov/html/doh/downloads/pdf/ip/ip-nyc-inj-child-fatality-report13.pdf)
 
 [_Atlantic article on guns surpassing cars as killers, doesn't reflect NYC_](http://www.theatlantic.com/technology/archive/2015/01/americas-top-killing-machine/384440/)
+####[Violent crime rates in NYC Schools)(http://www.p12.nysed.gov/irs/school_safety/school_safety_data_reporting.html)
 
 
