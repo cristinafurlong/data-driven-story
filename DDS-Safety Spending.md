@@ -18,7 +18,25 @@ _**Authors:** Cristina Furlong and Jay Wasserman_
 ####Key Questions
 What are the budgets for crossing guards vs. school safety agents?
 
-How many of each protect our schools? 
+####There are over 5,000 school safety agents at schools-according to the Department of Education School safety plan, their role is 
+
+School Safety Agents, who are part of the NYPD, work in conjunction with the school administrators to help maintain order and safety.
+
+School Safety Agents have the following responsibilities:
+
+Respond to immediate security situations
+
+Help school personnel maintain discipline and order
+
+Follow visitor control procedures
+
+Patrol areas within and immediately surrounding the school building
+
+Prevent intruders from entering the school building
+
+Report serious incidents to the school administration and School Safety
+
+ 
 
 Do Federal funds support these programs?
 ####Key Contacts
