@@ -1,6 +1,6 @@
-##Disparities in the School Safety Spending at the Department of Education
+####Disparities in the School Safety Spending at the Department of Education
 _**Authors:** Cristina Furlong and Jay Wasserman_
-##What's going on? Despite some very high profile incidents of traffic violence injuring or killing school children, the Department of Education still spends far more dollars on Terror and violent crime and prevention over traffic safety lessons and staffing. 
+####What's going on? Despite some very high profile incidents of traffic violence injuring or killing school children, the Department of Education still spends far more dollars on Terror and violent crime and prevention over traffic safety lessons and staffing. 
 
 [_Bronx girl struck_](http://www.streetsblog.org/2014/10/27/its-still-legal-to-run-over-a-child-on-a-new-york-city-sidewalk/)
 
@@ -14,6 +14,6 @@ _**Authors:** Cristina Furlong and Jay Wasserman_
 
 [_Atlantic article on guns surpassing cars as killers, doesn't reflect NYC_](http://www.theatlantic.com/technology/archive/2015/01/americas-top-killing-machine/384440/)
 
-##[Violent crime rates in NYC Schools)(http://www.p12.nysed.gov/irs/school_safety/school_safety_data_reporting.html)
+####[Violent crime rates in NYC Schools)(http://www.p12.nysed.gov/irs/school_safety/school_safety_data_reporting.html)
 
 
