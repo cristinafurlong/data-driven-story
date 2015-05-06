@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Basic Bootstrap Template</title>
+ 
+    <!-- Bootstrap --><!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+ 
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+ 
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <link rel="stylesheet" href="http://www.streetsblog.org/2014/10/27/its-still-legal-to-run-over-a-child-on-a-new-york-city-sidewalk/)http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+	<div class="container">
+	  <div class="jumbotron">
+<h2>Traffic Violence vs School Violence: Striking a balance </h2>
+<p>With a NYPD school safety officer department with huge numbers, how much manpower is being devoted to keeping kids safe from motorists?</p>
+<p><a href="http://i.imgur.com/77yJWC9.jpg"><img src="http://i.imgur.com/77yJWC9.jpg" title="source: imgur.com" /></a>
+</p>
+	  </div><!-- /jumbotron -->
+	     <p class="text-muted byline">By Cristina Furlong and James Wasserman | <a href="//twitter.com/Cristinafurlong">@missmarty70</a> | Mar 17, 2015</p>
+	    
+	    <p>There are over 5,000 School Safety officers who are hired as full time employees with full benefits and vacation. It is different for school crossing guards, who are not allowed to work over 20 hours a week. These numbers are not congruent with the rising number of violent traffic incidents in New York City.  </p> </p> 
+	<div class="row">		
+	<div class="col-md-4">
+	<img src="http://i.imgur.com/35Nz5Kp.png" class="img-responsive" title="source: NYC Vadir Report" />	
+ 
+	<p>An example of the small amounts of crime in District 27.Source NYC Vadir Report</p>
+	</div>
+		<div class="col-md-6">
+		<p><a href="http://imgur.com/P6u8Kj0"><img src="http://i.imgur.com/P6u8Kj0.png" class="img-responsive" title="source: imgur.com" /></a> </p>
+		
+ While violence in schools is in decline,"Pedestrian deaths from vehicle strikes are quickly rising in New York City" according to a 2014 article by the New York Daily News.  
+ 
+ <a href="http://imgur.com/4LNZXte"><img src="http://i.imgur.com/4LNZXte.png?1" class="img-responsive"  title="source: imgur.com" /></a>
+ 
+ 
+ The budget allocates twice the amount of money for school safety as it does for traffic enforcement, in clear opposition of the growing trend.
+ With the NYPD School Safety force being almost twice the size of Boston, and the most dangerous city in America, Detroit, there should be a way to balance the figures to ensure that children are kept safe from growing traffic violence in New York City.  
+ </p>
+ 
+ <img src="http://i.imgur.com/9xgRIqq.png" class="img-responsive" title="source: imgur.com" /></
+ 
+ 
+ <img src="http://i.imgur.com/DJQZpQ9.png" class="img-responsive" title="source: Center for Court Innovation" /></
+ 
+ 
+ 
+ 
+
+</div> <!-- /row -->
+
+ </body>
+	</html>
